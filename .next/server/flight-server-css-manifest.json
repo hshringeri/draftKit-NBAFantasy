@@ -1,0 +1,22 @@
+{
+  "cssImports": {
+    "/Users/hardh/draftKit-NBAFantasy/src/app/layout.tsx": [
+      "/Users/hardh/draftKit-NBAFantasy/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "/Users/hardh/draftKit-NBAFantasy/src/app/globals.css"
+    ],
+    "/Users/hardh/draftKit-NBAFantasy/src/app/playerComparison/layout.tsx": [
+      "/Users/hardh/draftKit-NBAFantasy/node_modules/next/font/google/target.css?{\"path\":\"src/app/playerComparison/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ]
+  },
+  "cssModules": {
+    "/Users/hardh/draftKit-NBAFantasy/src/app/page": [
+      "/Users/hardh/draftKit-NBAFantasy/src/app/globals.css",
+      "/Users/hardh/draftKit-NBAFantasy/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "/Users/hardh/draftKit-NBAFantasy/src/app/playerComparison/page": [
+      "/Users/hardh/draftKit-NBAFantasy/src/app/globals.css",
+      "/Users/hardh/draftKit-NBAFantasy/node_modules/next/font/google/target.css?{\"path\":\"src/app/playerComparison/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "/Users/hardh/draftKit-NBAFantasy/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ]
+  }
+}
