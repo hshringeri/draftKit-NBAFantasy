@@ -4,3 +4,5 @@ A Next.js application for NBA Fantasy team owners, empowering them to compare pl
 Start app by running: npm run dev
 
 Compare Teams Functionality - still being worked on
+
+Additional Features to add: more stats to compare, and date range for single season comparison
