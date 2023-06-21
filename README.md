@@ -5,4 +5,4 @@ Start app by running: npm run dev
 
 Compare Teams Functionality - still being worked on
 
-Additional Features to add: more stats to compare, and date range for single season comparison
+Additional Features to add: more stats to compare, but data is there. Just needs to be shown
